@@ -1,0 +1,21 @@
+#image {
+    width: 100px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#B39DDB 0%, #AB47BC 100%);
+    background-repeat: no-repeat;
+}
+
+.line {
+    height: 4px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    background-color: aliceblue;
+}
